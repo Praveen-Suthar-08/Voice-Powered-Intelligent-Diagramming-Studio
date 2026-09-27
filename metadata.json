@@ -1,0 +1,6 @@
+{
+  "name": "VoiceDiagram",
+  "description": "Speak it. See it. A browser app that converts speech into live, editable, exportable 2D & 3D diagrams using Gemini AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
